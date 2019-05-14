@@ -1,0 +1,3 @@
+pwd  ; ; ;  ;;ls -la;; ls ;
+ ls ; mkdir giorgos1 	;;;; ls;
+		ls  -la   ; ls;quit; touch pro;;
